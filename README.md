@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+## Python 程式設計與資料處理應用
 
-You can use the [editor on GitHub](https://github.com/yaojenkuo/HNCB_Python4DS_2019/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 簡介
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+這是[郭耀仁](https://www.facebook.com/yaojen.kuo.1)在[台灣大學資訊工程學系資訊系統訓練班](https://www.csie.ntu.edu.tw/train/)所開設的華南銀行專班課程，時數 42 小時。
 
-### Markdown
+Contact me: <tony@kyosei.ai>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 互動工具
 
-```markdown
-Syntax highlighted code block
+<https://www.sli.do/>
 
-# Header 1
-## Header 2
-### Header 3
+頻道號碼：J611
 
-- Bulleted
-- List
+### 共同筆記
 
-1. Numbered
-2. List
+<https://colab.research.google.com/drive/1--FjZCBd_NWlpi05vEmUjEDsocuxUQS6>
 
-**Bold** and _Italic_ and `Code` text
+### 投影片
 
-[Link](url) and ![Image](src)
-```
+#### Python 程式設計
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [關於](https://yaojenkuo.io/py_prg/00-about.slides.html)
+- [起步走](https://yaojenkuo.io/py_prg/01-getting-started.slides.html)
+- [資料型態](https://yaojenkuo.io/py_prg/02-data-types.slides.html)
+- [流程控制：條件判斷](https://yaojenkuo.io/py_prg/03-control-flow-conditionals.slides.html)
+- [流程控制：while 迴圈](https://yaojenkuo.io/py_prg/04-control-flow-while.slides.html)
+- [資料結構](https://yaojenkuo.io/py_prg/05-data-structures.slides.html)
+- [流程控制：for 迴圈](https://yaojenkuo.io/py_prg/06-control-flow-for.slides.html)
+- [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions.slides.html)
+- [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html)
+- [程式封裝：自訂模組/套件](https://yaojenkuo.io/py_prg/09-code-packaging-modules-and-libraries.slides.html)
 
-### Jekyll Themes
+#### Python 資料處理應用
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yaojenkuo/HNCB_Python4DS_2019/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [網頁資料擷取](https://yaojenkuo.io/python_4_ds/03-web-scraping-101.slides.html)
+- [網頁資料擷取排程與分享資料](https://yaojenkuo.io/python_4_ds/03-web-scraping-102.slides.html)
+- [NumPy 101](https://yaojenkuo.io/python_4_ds/04-numpy-101.slides.html)
+- [Pandas 101](https://yaojenkuo.io/python_4_ds/05-pandas-101.slides.html)
+- [Pandas 專題：資料處理](https://yaojenkuo.io/python_4_ds/06-pandas-data-wrangling.slides.html)
+- [Matplotlib PyPlot 101](https://yaojenkuo.io/python_4_ds/07-pyplot-101.slides.html)
+- [Seaborn 101](https://yaojenkuo.io/python_4_ds/08-seaborn-101.slides.html)
 
-### Support or Contact
+### 延伸閱讀
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
+- [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
+- [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)
+- [進擊的資料科學](https://www.books.com.tw/products/0010827812)
