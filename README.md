@@ -12,6 +12,12 @@ Contact me: <tony@kyosei.ai>
 
 頻道號碼：J611
 
+### WIFI
+
+Name: CSIE_guest 
+Account: guest_1HWUF
+Password: RKJEU8GU
+
 ### 共同筆記
 
 <https://colab.research.google.com/drive/1--FjZCBd_NWlpi05vEmUjEDsocuxUQS6>
@@ -45,5 +51,5 @@ Contact me: <tony@kyosei.ai>
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
 - [精通 Python：運用簡單的套件進行現代運算](https://www.books.com.tw/products/0010690075)
-- [Python Data Science Handbook](https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 - [進擊的資料科學](https://www.books.com.tw/products/0010827812)
