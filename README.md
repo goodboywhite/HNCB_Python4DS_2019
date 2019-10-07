@@ -14,9 +14,9 @@ Contact me: <tony@kyosei.ai>
 
 ### WIFI
 
-Name: CSIE_guest 
-Account: guest_1HWUF
-Password: RKJEU8GU
+- Name: CSIE_guest
+- Account: guest_1HWUF
+- Password: RKJEU8GU
 
 ### 共同筆記
 
