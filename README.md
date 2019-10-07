@@ -48,6 +48,10 @@ Contact me: <tony@kyosei.ai>
 - [Matplotlib PyPlot 101](https://yaojenkuo.io/python_4_ds/07-pyplot-101.slides.html)
 - [Seaborn 101](https://yaojenkuo.io/python_4_ds/08-seaborn-101.slides.html)
 
+### 上課錄影
+
+- [Python 程式設計](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVe7nvueJyWkLXVEe83eCnR)
+
 ### 延伸閱讀
 
 - [A Whirlwind Tour of Python](https://jakevdp.github.io/WhirlwindTourOfPython/)
