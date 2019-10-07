@@ -24,9 +24,7 @@ Contact me: <tony@kyosei.ai>
 
 ### 投影片
 
-#### Python 程式設計 
-
-[PDF 版本下載](https://pyprg.s3-ap-northeast-1.amazonaws.com/pyprg-pdfs.zip)
+#### Python 程式設計 [PDF 版本下載](https://pyprg.s3-ap-northeast-1.amazonaws.com/pyprg-pdfs.zip)
 
 - [關於](https://yaojenkuo.io/py_prg/00-about.slides.html)
 - [起步走](https://yaojenkuo.io/py_prg/01-getting-started.slides.html)
