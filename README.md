@@ -24,7 +24,9 @@ Password: RKJEU8GU
 
 ### 投影片
 
-#### Python 程式設計
+#### Python 程式設計 
+
+[PDF 版本下載](https://pyprg.s3-ap-northeast-1.amazonaws.com/pyprg-pdfs.zip)
 
 - [關於](https://yaojenkuo.io/py_prg/00-about.slides.html)
 - [起步走](https://yaojenkuo.io/py_prg/01-getting-started.slides.html)
@@ -37,20 +39,6 @@ Password: RKJEU8GU
 - [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes.slides.html)
 - [程式封裝：自訂模組/套件](https://yaojenkuo.io/py_prg/09-code-packaging-modules-and-libraries.slides.html)
 - [專題：房屋貸款試算器](https://yaojenkuo.io/py_prg/mortgage-loan-project.slides.html)
-
-#### PDF 版本
-
-- [關於](https://yaojenkuo.io/py_prg/00-about-slides.pdf)
-- [起步走](https://yaojenkuo.io/py_prg/01-getting-started-slides.pdf)
-- [資料型態](https://yaojenkuo.io/py_prg/02-data-types-slides.pdf)
-- [流程控制：條件判斷](https://yaojenkuo.io/py_prg/03-control-flow-conditionals-slides.pdf)
-- [流程控制：while 迴圈](https://yaojenkuo.io/py_prg/04-control-flow-while-slides.pdf)
-- [資料結構](https://yaojenkuo.io/py_prg/05-data-structures-slides.pdf)
-- [流程控制：for 迴圈](https://yaojenkuo.io/py_prg/06-control-flow-for-slides.pdf)
-- [程式封裝：自訂函數](https://yaojenkuo.io/py_prg/07-code-packaging-functions-slides.pdf)
-- [程式封裝：自訂類別](https://yaojenkuo.io/py_prg/08-code-packaging-classes-slides.pdf)
-- [程式封裝：自訂模組/套件](https://yaojenkuo.io/py_prg/09-code-packaging-modules-and-libraries-slides.pdf)
-- [專題：房屋貸款試算器](https://yaojenkuo.io/py_prg/mortgage-loan-project-slides.pdf)
 
 #### Python 資料處理應用
 
