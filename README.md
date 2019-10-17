@@ -51,6 +51,7 @@ Contact me: <tony@kyosei.ai>
 ### 上課錄影
 
 - [Python 程式設計](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVe7nvueJyWkLXVEe83eCnR)
+- [Python 資料處理應用](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVryCly8XPDRk7RdbUZ1fUA)
 
 ### 延伸閱讀
 
