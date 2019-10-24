@@ -49,6 +49,17 @@ Contact me: <tony@kyosei.ai>
 - [Matplotlib PyPlot 101](https://yaojenkuo.io/python_4_ds/07-pyplot-101.slides.html)
 - [Seaborn 101](https://yaojenkuo.io/python_4_ds/08-seaborn-101.slides.html)
 
+#### Python 機器學習
+
+- [起步走](https://yaojenkuo.io/pyml-101/01-getting-started.slides.html)
+- [機器學習簡介](https://yaojenkuo.io/pyml-101/02-intro.slides.html)
+- [Scikit-Learn 101](https://yaojenkuo.io/pyml-101/03-sklearn-101.slides.html)
+- [迴歸](https://yaojenkuo.io/pyml-101/04-regression.slides.html)
+- [梯度遞減](https://yaojenkuo.io/pyml-101/05-gradient-descent.slides.html)
+- [分類](https://yaojenkuo.io/pyml-101/06-classification.slides.html)
+- [深度學習簡介](https://yaojenkuo.io/pyml-101/07-dl-intro.slides.html)
+- [神經網路模型](https://yaojenkuo.io/pyml-101/08-nn.slides.html)
+
 ### 上課錄影
 
 - [Python 程式設計](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVe7nvueJyWkLXVEe83eCnR)
