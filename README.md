@@ -20,7 +20,14 @@ Contact me: <tony@kyosei.ai>
 
 ### 共同筆記
 
-- [20190926-20191024](https://colab.research.google.com/drive/1--FjZCBd_NWlpi05vEmUjEDsocuxUQS6)
+- [20190926](https://colab.research.google.com/drive/1QxQoPhT8BiowdYE0VV8o7svfG6zoy8Rm)
+- [20191003](https://colab.research.google.com/drive/1brDSda89UYAiJ6d6kPUaU-1zKABd8k-Z)
+- [20191007](https://colab.research.google.com/drive/1Yb9FINe9uATvGK-ecfy5Zkpw9nmqdL5O)
+- [20191014](https://colab.research.google.com/drive/1nFt7O3pt5d1oVNyTj958moOlLhKax_8D)
+- [專題：房屋貸款試算器](https://colab.research.google.com/drive/1waMo7Vv2s-oDJZHnRLippTp3A213VtI8)
+- [20191017](https://colab.research.google.com/drive/1PeA5fliFbS1gRpSLgpJA9bihu8b3NZzC)
+- [20191021](https://colab.research.google.com/drive/10SuPF4RWxXHPXUbmOwEMgqGuP1aQFiPn)
+- [20191024](https://colab.research.google.com/drive/1JeF83rGu7xGGatxrGg3WroSuLf9GymVy)
 - [20191028](https://colab.research.google.com/drive/1exMmY__lssLMj0kbjdopXaH3udC5pgGI)
 
 ### 作業上傳表單
