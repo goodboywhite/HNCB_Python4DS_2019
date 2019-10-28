@@ -20,7 +20,8 @@ Contact me: <tony@kyosei.ai>
 
 ### 共同筆記
 
-<https://colab.research.google.com/drive/1--FjZCBd_NWlpi05vEmUjEDsocuxUQS6>
+- [20190926-20191024](https://colab.research.google.com/drive/1--FjZCBd_NWlpi05vEmUjEDsocuxUQS6)
+- [20191028](https://colab.research.google.com/drive/1exMmY__lssLMj0kbjdopXaH3udC5pgGI)
 
 ### 作業上傳表單
 
