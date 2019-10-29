@@ -29,6 +29,8 @@ Contact me: <tony@kyosei.ai>
 - [20191021](https://colab.research.google.com/drive/10SuPF4RWxXHPXUbmOwEMgqGuP1aQFiPn)
 - [20191024](https://colab.research.google.com/drive/1JeF83rGu7xGGatxrGg3WroSuLf9GymVy)
 - [20191028](https://colab.research.google.com/drive/1exMmY__lssLMj0kbjdopXaH3udC5pgGI)
+- [20191030]()
+- [專題：時間序列資料的價格預測]()
 
 ### 作業上傳表單
 
@@ -72,12 +74,13 @@ Contact me: <tony@kyosei.ai>
 - [專題：信用卡詐欺預測](https://yaojenkuo.io/pyml-101/credit-card-fraud-detection-project.slides.html)
 - [深度學習簡介](https://yaojenkuo.io/pyml-101/07-dl-intro.slides.html)
 - [神經網路模型](https://yaojenkuo.io/pyml-101/08-nn.slides.html)
+- [專題：時間序列資料的價格預測](https://yaojenkuo.io/pyml-101/time-series-price-prediction-project.slides.html)
 
 ### 上課錄影
 
 - [Python 程式設計](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVe7nvueJyWkLXVEe83eCnR)
 - [Python 資料處理應用](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVryCly8XPDRk7RdbUZ1fUA)
-- [Python 機器學習]()
+- [Python 機器學習](https://www.youtube.com/playlist?list=PLEq7iw5uOtuVvuoA9brVg56_z3OKBji9u)
 
 ### 延伸閱讀
 
