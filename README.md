@@ -18,7 +18,7 @@ Contact me: <tony@kyosei.ai>
 - Account: guest_1HWUF
 - Password: RKJEU8GU
 
-### 共同筆記
+### 共同筆記 [PDF 版本下載](https://pyprg.s3-ap-northeast-1.amazonaws.com/notebook-pdfs.zip)
 
 - [20190926](https://colab.research.google.com/drive/1QxQoPhT8BiowdYE0VV8o7svfG6zoy8Rm)
 - [20191003](https://colab.research.google.com/drive/1brDSda89UYAiJ6d6kPUaU-1zKABd8k-Z)
