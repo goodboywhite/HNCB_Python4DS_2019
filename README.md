@@ -29,8 +29,8 @@ Contact me: <tony@kyosei.ai>
 - [20191021](https://colab.research.google.com/drive/10SuPF4RWxXHPXUbmOwEMgqGuP1aQFiPn)
 - [20191024](https://colab.research.google.com/drive/1JeF83rGu7xGGatxrGg3WroSuLf9GymVy)
 - [20191028](https://colab.research.google.com/drive/1exMmY__lssLMj0kbjdopXaH3udC5pgGI)
-- [20191030]()
-- [專題：時間序列資料的價格預測]()
+- [20191030](https://colab.research.google.com/drive/1xOtwoAMmLdp2Ae0fPz7D12iwvZZmWbOF)
+- [專題：時間序列資料的價格預測](https://colab.research.google.com/drive/1uW_-qWeNem9KSDM8VbbuuT7NOU8qBvOK)
 
 ### 作業上傳表單
 
